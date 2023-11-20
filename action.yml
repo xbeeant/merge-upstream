@@ -1,6 +1,6 @@
 name: "Merge Upstream"
 description: "Merge changes from the uppstream repo you had forked from."
-author: "eXions"
+author: "xbeeant"
 branding:
   icon: git-merge
   color: black
